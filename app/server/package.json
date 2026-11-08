@@ -12,13 +12,13 @@
     "author": "Phillip Kofler <koflerphillip@outlook.com>",
     "license": "MIT",
     "dependencies": {
-        "@we-gold/gpxjs": "^1.2.0",
+        "@we-gold/gpxjs": "^1.2.1",
         "assert": "^2.1.0",
         "cors": "^2.8.6",
         "cross-env": "^7.0.3",
         "dotenv": "^16.6.1",
         "express": "^4.22.3",
-        "mongoose": "^8.24.4",
+        "mongoose": "^8.24.7",
         "multer": "^1.4.5-lts.1",
         "node-cache": "^5.1.2",
         "sharp": "^0.35.5",
@@ -34,6 +34,6 @@
         "@types/supertest": "^7.2.1",
         "mocha": "^10.7.3",
         "nodemon": "^3.1.14",
-        "supertest": "^7.3.0"
+        "supertest": "^7.3.1"
     }
 }
